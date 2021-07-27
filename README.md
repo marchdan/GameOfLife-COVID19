@@ -1,12 +1,12 @@
 # GameOfLife-COVID19
 ---
-##COVID-19 Modeling with the Game of Life
+## COVID-19 Modeling with the Game of Life
 title: "COVID-19 Modeling with the Game of Life"
 date: 2020-05-05
 author: "Daniel Ackermans"
 ---
 
-###Testing enviroment setup:
+### Testing enviroment setup:
 > pull us.csv from NYT github files
 > "outputs" folder created
 > "data" folder created
@@ -17,7 +17,7 @@ author: "Daniel Ackermans"
 	* Example slurm script: slurpSpectrum.sh
 	* Maximum worldSize = 2,000,0000
 
-###Minimun needed directory structure:
+### Minimun needed directory structure:
 project
 -> data/
 -> outputs/
@@ -28,7 +28,7 @@ project
 -> us.csv
 -> README.md
 
-###Compile line arguments 
+### Compile line arguments 
 > slurm*.sh:
 2 1 3 3 300000 7 128 0
 ^ ^ ^ ^ ^      ^ ^   ^
