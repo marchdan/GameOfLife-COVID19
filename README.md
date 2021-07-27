@@ -1,9 +1,9 @@
 # GameOfLife-COVID19
 ---
 ## COVID-19 Modeling with the Game of Life
-title: "COVID-19 Modeling with the Game of Life"
-date: 2020-05-05
-author: "Daniel Ackermans"
+	title: "COVID-19 Modeling with the Game of Life"
+	date: 2020-05-05
+	author: "Daniel Ackermans"
 ---
 
 ### Testing enviroment setup:
