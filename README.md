@@ -31,16 +31,14 @@
 ### Compile line arguments 
 > slurm*.sh:
 > 
-``
-2 1 3 3 300000 7 128 0
-^ ^ ^ ^ ^      ^ ^   ^
-| | | | |      | |   |
-| | | | |      | |   output(on/off) (0 or 1)
-| | | | | 	   | number of threads (1-128)
-| | | | |      iterations (> 0)
-| | | | sim. world size ( < 2,000,000)
-| | | death rate (0-100)
-| | infection rate (0-100)
-| spread pattern (0-3)
-initialization pattern (0-4)
-``
+> 2 1 3 3 300000 7 128 0
+>
+> Line items:
+> 1. initialization pattern (0-4)
+> 2. spread pattern (0-3)
+> 3. infection rate (0-100)
+> 4. death rate (0-100)
+> 5. sim. world size ( < 2,000,000)
+> 6. iterations (> 0)
+> 7. number of threads (1-128)
+> 8. output(on/off) (0 or 1)
