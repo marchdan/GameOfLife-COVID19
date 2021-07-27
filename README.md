@@ -7,7 +7,7 @@
 ---
 
 ### Testing enviroment setup:
-- pull us.csv from NYT github files
+- pull us.csv from NYT github files (https://github.com/nytimes/covid-19-data)
 - "outputs" folder created
 - "data" folder created
 - set WORLD_POP to current number from: 
