@@ -18,18 +18,19 @@
 	* Maximum worldSize = 2,000,0000
 
 ### Minimun needed directory structure:
-project
-- data/
-- outputs/
-- gol-main.c
-- gol-with-cuda.cu
-- Makefile
-- slurmSpectrum.sh
-- us.csv
-- README.md
+- project
+	- data/
+	- outputs/
+	- gol-main.c
+	- gol-with-cuda.cu
+	- Makefile
+	- slurmSpectrum.sh
+	- us.csv
+	- README.md
 
 ### Compile line arguments 
 > slurm*.sh:
+> 
 ``
 2 1 3 3 300000 7 128 0
 ^ ^ ^ ^ ^      ^ ^   ^
