@@ -6,7 +6,7 @@
 	author: "Daniel Ackermans"
 ---
 
-## (Report)[https://github.com/marchdan/GameOfLife-COVID19/blob/main/Ackermans-Daniel_Covid19-Modeling-with-the-Game-of-Life_2020.pdf]
+## [Report](https://github.com/marchdan/GameOfLife-COVID19/blob/main/Ackermans-Daniel_Covid19-Modeling-with-the-Game-of-Life_2020.pdf)
 
 ### Testing enviroment setup:
 - pull us.csv from NYT github files (https://github.com/nytimes/covid-19-data)
